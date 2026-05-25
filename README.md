@@ -2,27 +2,25 @@
 
 ## 📖 Project Description
 This is a simple console-based Library Management System developed using Java.  
-It helps to manage books in a library such as adding books, viewing books, issuing books, and returning books.
+It allows users to manage books by adding, viewing, issuing, and returning books.
 
 ---
 
 ## 🚀 Features
-- Add new books
-- View all available books
-- Issue a book
-- Return a book
-- Track issued status of books
+- Add Book
+- View Books
+- Issue Book
+- Return Book
+- Exit System
 
 ---
 
 ## 🧠 Concepts Used
 - Object-Oriented Programming (OOP)
   - Classes and Objects
-  - Encapsulation (basic level)
 - ArrayList (Collection Framework)
-- Loops and Conditions
-- File Handling (if added)
-- Scanner class for user input
+- Scanner (User Input)
+- Loops and Conditional Statements
 
 ---
 
